@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Bitter|Molle:400i|Roboto+Slab&display=swap');
+.title {
+    font-family: 'Bitter', serif;
+}
+
+.newsletter {
+    background-image: url('../../images/newsletter4.png');
+    background-position: center;
+    background-color: rgb(39, 37, 37);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* .title{
+    color:;
+} */
+.content {
+    opacity: 0.8;
+}
+
+.home {
+    background-image: url('../../images/home4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+}

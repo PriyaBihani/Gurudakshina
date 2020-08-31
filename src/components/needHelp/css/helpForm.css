@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Raleway&display=swap');
+.title {
+    font-family: 'Cabin', sans-serif;
+}
+
+.needHelp {
+    padding: 20px 60px 20px 60px;
+    background-image: url('../../../images/home2.jpeg');
+    background-size: cover;
+    background-color: rgb(35, 38, 75);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.subheading {
+    font-family: 'Raleway', sans-serif;
+    color: #F9EBE0;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.labelName {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #F9EBE0;
+}
+
+.image-preview {
+    width: 200px;
+    height: 200px;
+    border: 2px;
+    border-radius: 50%;
+    display: none;
+}
+
+hr.style7 {
+    height: 30px;
+    border-style: solid;
+    border-color: #8c8b8b;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+
+hr.style7:before {
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: #8c8b8b;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+.choose-img {
+    color: white;
+    
+}

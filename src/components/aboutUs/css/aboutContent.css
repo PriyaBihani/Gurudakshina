@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Bitter|Molle:400i|Roboto+Slab&display=swap');
+.header {
+    font-family: 'Bitter', serif;
+    font-size: 2rem;
+}
+.content {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.4rem;
+}
+.background{
+    height: 100vh;
+    padding:5vh;
+    background-image: url('../../../images/seek2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

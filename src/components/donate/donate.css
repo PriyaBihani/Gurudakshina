@@ -1,0 +1,11 @@
+.donate {
+    background-image: url('../../images/donate.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.donate-card {
+    opacity: 0.85;
+}

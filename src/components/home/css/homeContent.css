@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Bitter|Molle:400i|Roboto+Slab&display=swap');
+.header {
+    font-family: 'Bitter', serif;
+    font-size: 2rem;
+}
+.content {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.4rem;
+}
+.carousel-item img{
+    max-width: auto;
+    max-height: 55vh;
+}
+.home-content {
+    /* background-image: url('../../../images/needhelp.jpg'); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

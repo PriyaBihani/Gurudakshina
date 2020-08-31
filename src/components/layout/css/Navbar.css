@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Molle:400i&display=swap');
+.logo {
+    font-family: 'Molle', cursive;
+    color: #F72C25;
+}
+
+.navbar {
+    font-family: 'Bitter', serif;
+}
